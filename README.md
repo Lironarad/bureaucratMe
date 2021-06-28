@@ -1,7 +1,7 @@
 # bureaucratMe
 
 <img src="https://media.giphy.com/media/FkuEPynohOdldm7BUD/giphy.gif" alt="bme">
-An app that helps the user fill forms of known establishments automatically.
+<h2> An app that helps the user fill forms of known establishments automatically. <h2>
 
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/ScPL3w5/Sequence-Diagram.jpg" alt="Sequence-Diagram" border="0"></a>
 <a href="https://ibb.co/g7BSRsp"><img src="https://i.ibb.co/cv76rzH/Activity-Diagram.jpg" alt="Activity-Diagram" border="0"></a>
