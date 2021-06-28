@@ -9,7 +9,10 @@
   <li>Nitzan Kerbatzov</li>
   <li>Maoz Grossman</li>
 </ul>
-<iframe width="560" height="315" src="https://streamable.com/e/r1mhy5" frameborder="0" allowfullscreen></iframe>
+
+
+https://user-images.githubusercontent.com/44966756/123675275-3481ca00-d84b-11eb-97a3-a84744aad3cc.mp4
+
 
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/ScPL3w5/Sequence-Diagram.jpg" alt="Sequence-Diagram" border="0"></a>
 <a href="https://ibb.co/g7BSRsp"><img src="https://i.ibb.co/cv76rzH/Activity-Diagram.jpg" alt="Activity-Diagram" border="0"></a>
